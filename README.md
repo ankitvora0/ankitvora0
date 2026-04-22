@@ -135,9 +135,9 @@ I'm a **Senior Full-Stack Engineer** with 9+ years of experience building revenu
 
 ## 📊 GitHub Stats
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitvora0&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitvora0&layout=compact&theme=default&hide_border=true)
 
 ---
 
